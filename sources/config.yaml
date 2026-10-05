@@ -1,0 +1,5 @@
+buildVariable: false
+removeOutlineOverlaps: false
+noProductionNames: true
+sources:
+  - NovaSlim.glyphs
